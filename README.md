@@ -2,6 +2,8 @@
 
 > An AI-powered full-stack job application assistant for freshers and job seekers.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/sri4248/applymate-ai)
+
 ## ✨ Features
 
 | Feature | Description |
@@ -24,7 +26,7 @@
 - **Charts**: Recharts
 - **Animations**: Framer Motion
 
-## 🚀 Quick Start
+## 🚀 Quick Deploy
 
 ### Prerequisites
 - Node.js 18+
